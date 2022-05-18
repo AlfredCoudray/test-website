@@ -39,7 +39,7 @@ if (empty($_POST["message"])) {
 }
 
 
-$EmailTo = "example@domainname.com";
+$EmailTo = inquiry@balensosadigtital.com;
 
 $Subject = "New Message Received";
 
